@@ -25,10 +25,10 @@ Within my project, I will be creating an application that will enable emplyees t
 I am Jeremiah and I am the author of this project.
 
 
-I would like to thank Joshua for helping me better understand this project. I was behind at first on learning much more about Javascipt, but I am getting the hang of everything.
+I would like to thank Joshua for helping me better understand this project. I was behind at first on learning much more about Javascipt, but I am getting the hang of everything. I want to also thank Julio for the help in tutoring me to better understand methods and arrays.
 
 
 <BR>
 
-README is maintained by [Jeremiah](https://github.com/Jwarren619) , followed by the [My-JavaScript-Challenge](https://github.com/Jwarren619/My-JavaScript-Challenge) and hosted on [GitHub](https://github.com/Jwarren619/My-JavaScript-Challenge).
+README is maintained by [Jeremiah](https://github.com/Jwarren619) , followed by the [My-JavaScript-Challenge](https://jwarren619.github.io/My-JavaScript-Challenge/) and hosted on [GitHub](https://github.com/Jwarren619/My-JavaScript-Challenge).
 
