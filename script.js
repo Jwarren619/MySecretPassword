@@ -38,11 +38,11 @@ function generatePassword(){
   var lowerCase = confirm("Would you like an Lowercase letter?");
   console.log(lowerCase);
   if (lowerCase === true) {
-    possibleCharacters = possibleCharacters.concat(lowerCase)
+    possibleCharacters = possibleCharacters.concat(lowerCaseArray)
   }
 
   var number = confirm("Would you like a Number?");
-  console.log(number);
+  console.log(numberArray);
   if (number === true) {
     possibleCharacters = possibleCharacters.concat(numberArray)
   }
