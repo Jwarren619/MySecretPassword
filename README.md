@@ -1,9 +1,12 @@
-## My Javascript Challenge
+## My Secret Password
 
 ## Description 
-Within my project, I will be creating an application that will enable emplyees to create a random password. My app will have feautures pf HTML and CSS. The project will be powered by Javascript coding that I will be using.
+Within my project, I will be creating an application that will enable employees to create a random password. My application will have feautures of HTML and CSS. The project will be powered by Javascript coding that I will be using.
 
 ## Visuals
+
+My Deployed Link: 
+
 
 ![Image1](Assets/Screenshot1.png)
 
@@ -22,7 +25,7 @@ Within my project, I will be creating an application that will enable emplyees t
 ![Image8](Assets/Screenshot8.png)
 
 ## Authors and Acknowledgment
-I am Jeremiah and I am the author of this project.
+I am Jeremiah Warren and I am the author of this project.
 
 
 I would like to thank Joshua for helping me better understand this project. I was behind at first on learning much more about Javascipt, but I am getting the hang of everything. I want to also thank Julio for the help in tutoring me to better understand methods and arrays.
@@ -31,4 +34,16 @@ I would like to thank Joshua for helping me better understand this project. I wa
 <BR>
 
 README is maintained by [Jeremiah](https://github.com/Jwarren619) , followed by the [My-JavaScript-Challenge](https://jwarren619.github.io/My-JavaScript-Challenge/) and hosted on [GitHub](https://github.com/Jwarren619/My-JavaScript-Challenge).
+
+<BR>
+
+For questions please contact: 
+  - Jeremiah Warren 
+  - Email: Jjeremiahwarren@yahoo.com
+  - GitHub Username: Jwarren619
+  - GitHub Profile: https://github.com/Jwarren619
+
+
+
+
 
