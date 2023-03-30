@@ -12,6 +12,8 @@ My Deployed Link: [My Secret Password](https://jwarren619.github.io/MySecretPass
 
 These images will show you step by step how the application will appear and work. When you click the "Generate Password" button, you will be able to create your secret password. 
 
+
+
 ![Image1](Assets/Screenshot1.png)
 
 ![Image2](Assets/Screenshot2.png)
