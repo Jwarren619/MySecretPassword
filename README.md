@@ -5,8 +5,12 @@ Within my project, I will be creating an application that will enable employees 
 
 ## Visuals
 
-My Deployed Link: 
+My Deployed Link: [My Secret Password](https://jwarren619.github.io/MySecretPassword/)
 
+<br>
+
+
+These images will show you step by step how the application will appear and work. When you click the "Generate Password" button, you will be able to create your secret password. 
 
 ![Image1](Assets/Screenshot1.png)
 
@@ -31,9 +35,12 @@ I am Jeremiah Warren and I am the author of this project.
 I would like to thank Joshua for helping me better understand this project. I was behind at first on learning much more about Javascipt, but I am getting the hang of everything. I want to also thank Julio for the help in tutoring me to better understand methods and arrays.
 
 
+
+
+
 <BR>
 
-README is maintained by [Jeremiah](https://github.com/Jwarren619) , followed by the [My-JavaScript-Challenge](https://jwarren619.github.io/My-JavaScript-Challenge/) and hosted on [GitHub](https://github.com/Jwarren619/My-JavaScript-Challenge).
+README is maintained by [Jeremiah](https://github.com/Jwarren619) , followed by the [My Secret Password](https://jwarren619.github.io/MySecretPassword/) and hosted on [GitHub](https://github.com/Jwarren619/MySecretPassword).
 
 <BR>
 
